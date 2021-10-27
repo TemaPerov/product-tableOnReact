@@ -1,0 +1,5 @@
+export const GET_DATA ='GET_DATA'
+export const STATE_FORM ='STATE_FORM'
+export const STATE_WINDOW_DETAIL ='STATE_WINDOW_DETAIL'
+export const GET_ONE_PRODUCT ='GET_ONE_PRODUCT'
+export const GET_DATA_FILTR ='GET_DATA_FILTR'

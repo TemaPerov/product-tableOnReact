@@ -1,0 +1,160 @@
+{
+  "product": [
+    {
+      "imageUrl": "https://www.fest.delivery/wp-content/uploads/2020/04/Chipsy-Lays-zi-smakom-syru_Montazhna-oblast-1.jpg",
+      "count": 25,
+      "size": {
+        "width": 20,
+        "height": 12
+      },
+      "weight": "24",
+      "name": "Чіпси Лайс",
+      "id": 19,
+      "coments": [
+        "Hello",
+        null,
+        "привіт",
+        "good product",
+        null,
+        "вьваьмва"
+      ]
+    },
+    {
+      "name": "Чіпси Люкс",
+      "imageUrl": "https://delikates.ua/images/product/chipsy-leys4.jpg",
+      "count": 45,
+      "size": {
+        "width": 22,
+        "height": 233
+      },
+      "weight": "2234",
+      "id": 23,
+      "coments": []
+    },
+    {
+      "name": "Сало Смачне",
+      "imageUrl": "https://aif-s3.aif.ru/images/015/819/e8e2a94949d1a88c72873dedd3ad8d06.jpg",
+      "count": 45,
+      "size": {
+        "width": 30,
+        "height": 50
+      },
+      "weight": "900",
+      "id": 24,
+      "coments": [
+        "gmgmgh"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://znymky.com/uploads/gallery/produkty/ranok-38.jpg",
+      "name": "Сода Люкс",
+      "count": 7,
+      "size": {
+        "width": 45,
+        "height": "no data available"
+      },
+      "weight": "no data available",
+      "id": 36,
+      "coments": [
+        "fddnfgnfn"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://aif-s3.aif.ru/images/015/819/e8e2a94949d1a88c72873dedd3ad8d06.jpg",
+      "name": "сіцусц",
+      "count": 300,
+      "size": {
+        "width": "no data available",
+        "height": "no data available"
+      },
+      "weight": "no data available",
+      "id": 39,
+      "coments": [
+        "hfgngfgm"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://benefit.ua/Images/ProductGallery/8d84db1b-4513-11e7-ba06-e03f49eb1351/cb32847c-6b12-4609-89b0-733bf1a04467.png",
+      "name": "Раки",
+      "count": "no data available",
+      "size": {
+        "width": "no data available",
+        "height": "no data available"
+      },
+      "weight": "no data available",
+      "id": 40,
+      "coments": [
+        "Пикольні"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://benefit.ua/Images/ProductGallery/8d84db1b-4513-11e7-ba06-e03f49eb1351/cb32847c-6b12-4609-89b0-733bf1a04467.png",
+      "name": "ceewcce",
+      "count": "no data available",
+      "size": {
+        "width": "no data available",
+        "height": "no data available"
+      },
+      "weight": "no data available",
+      "id": 41,
+      "coments": [
+        "uliuglig"
+      ]
+    },
+    {
+      "name": "objFuncsxs",
+      "imageUrl": "https://www.fest.delivery/wp-content/uploads/2020/04/Chipsy-Lays-zi-smakom-syru_Montazhna-oblast-1.jpg",
+      "count": 4,
+      "size": {
+        "width": 1,
+        "height": 5
+      },
+      "weight": 4,
+      "id": 42,
+      "coments": [
+        "cvfvdfvf"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://delikates.ua/images/product/chipsy-leys4.jpg",
+      "name": "Чіпси Дюкс",
+      "count": 45,
+      "size": {},
+      "weight": "2234",
+      "id": 43,
+      "coments": [
+        "jioou"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://delikates.ua/images/product/chipsy-leys4.jpg",
+      "name": "Петро",
+      "count": 8,
+      "size": {},
+      "weight": 8,
+      "id": 44,
+      "coments": [
+        "раовлаьмвам"
+      ]
+    },
+    {
+      "comments": [],
+      "imageUrl": "https://rickandmortyapi.com/api/character/avatar/361.jpeg",
+      "name": "Маша",
+      "count": 4554,
+      "size": {
+        "width": 4545,
+        "height": 5445455
+      },
+      "weight": 54545,
+      "id": 45,
+      "coments": []
+    }
+  ]
+}

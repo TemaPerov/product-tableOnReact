@@ -1,0 +1,19 @@
+.wraper{
+    max-width: var(--width-max);
+    margin: auto;
+    padding: var(--spacing-large) 0;
+}
+@media (max-width:1400px){
+    .wraper{
+        padding: var(--spacing-large) var(--spacing-large);
+    }
+}
+
+.box{
+    width: 20px;
+    height: 20px;
+    border: 1px solid;
+    cursor: pointer;
+    text-align: center;
+    margin: 4px;
+}
